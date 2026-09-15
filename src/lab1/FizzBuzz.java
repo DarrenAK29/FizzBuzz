@@ -5,7 +5,7 @@ package lab1;
  */
 class FizzBuzz {
 
-    public static void main(String[] args) {
+    public static void fb() {
         int i = 1;
         while (i <= 100) {
             i = getI(i);
