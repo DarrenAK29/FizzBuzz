@@ -4,4 +4,6 @@ public class Main {
     static void main() {
         FizzBuzz.fb();
     }
+
+    // test
 }
